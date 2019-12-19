@@ -3,8 +3,12 @@ Se utilizan para comandos largos que utilices a diario.
 
 Modificación rama testing
 uuuuuu 
+iahfsuohafohafshoihifsao
+ohsfohashfofasiohsoah
+oufghohosag
 
-
+oasihfioahsfhofas
+dgajpaojgopjagdopjgaodpj
 Se presenta la siguiente información: 
 
 ###### git config --global alias.name-del-alias "comandos a ejecutar"
