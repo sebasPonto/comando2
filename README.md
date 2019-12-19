@@ -3,6 +3,12 @@ Se utilizan para comandos largos que utilices a diario.
 
 Se presenta la siguiente información: 
 
+modificacion desde rama master
+como esta esta rama.. 
+
+
+
+
 ###### git config --global alias.name-del-alias "comandos a ejecutar"
 ### git config --global alias.lg "log --oneline --decorate"
 Uso:
